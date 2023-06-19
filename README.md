@@ -12,6 +12,8 @@ https://www.kaggle.com/datasets/tiagotgoz/predictive-useful-life-based-into-tele
 - DecisionTreeRegression_for_RUL_Prediction.ipynb предсказание RUL моделью  DecisionTreeRegression
 - XGBoost_for_RUL_Prediction.ipynb предсказание RUL ансамблевой моделью XGBoost при выполнение оптимизации гиперпараметров рекомендуется включить использование GPU в коллабе
 - Dimensions Reduction and Clustering.ipynb использование Supervised/Semi-Supervised UMAP для кластеризации данных
+- SVC_Models_Classification.ipynb SCV классификатор моделей оборудования
+- IsolationForest for Failures Detections as Anomalies.ipynb использование IsolationForest как детектора выхода оборудования из строя
 
 ## Данные:
 
