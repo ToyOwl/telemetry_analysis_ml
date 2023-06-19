@@ -11,6 +11,7 @@ https://www.kaggle.com/datasets/tiagotgoz/predictive-useful-life-based-into-tele
 - Telemetry Analysis and Datasets Preparation.ipynb EDA и дополнение новыми признаками tsfresh
 - DecisionTreeRegression_for_RUL_Prediction.ipynb предсказание RUL моделью  DecisionTreeRegression
 - XGBoost_for_RUL_Prediction.ipynb предсказание RUL ансамблевой моделью XGBoost при выполнение оптимизации гиперпараметров рекомендуется включить использование GPU в коллабе
+- Dimensions Reduction and Clustering.ipynb использование Supervised/Semi-Supervised UMAP для кластеризации данных
 
 ## Данные:
 
